@@ -56,9 +56,5 @@ public class ClientEvents {
         ItemBlockRenderTypes.setRenderLayer(b.get(), RenderType.cutout());
     }
 
-    @SubscribeEvent
-    public static void registerParticleFactories(final RegisterParticleProvidersEvent event) {
-        Minecraft.getInstance().particleEngine.register(MMParticles.KRILL_PARTICLES.get(),
-                KrillParticle.Provider::new);
-    }
+ 
 }
