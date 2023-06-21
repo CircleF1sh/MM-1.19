@@ -1,0 +1,23 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[44,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+
+[[mods]] #mandatory
+
+modId="magicalmarine" #mandatory
+
+version="1w01a" #mandatory
+
+displayName="Magical Marine" #mandatory
+
+
+description='''
+Magical Marine
+--------------
+Welcome to the world of Magical Marine, a mod that brings fantastical aquatic creatures to your Minecraft experience.
+With its unique blend of imagination and realism, Magical Marine adds a touch of enchantment to your Minecraft gameplay. So, what are you waiting for?
+Dive in and immerse yourself in a world of wonder and adventure!
+
+Author: CircleF1sh
+'''

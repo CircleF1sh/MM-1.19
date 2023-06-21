@@ -1,0 +1,20 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+
+    "minecraft:mangrove_swamp",
+    "minecraft:swamp"
+
+
+
+  ],
+
+
+
+  "spawners": {
+    "type": "magicalmarine:burntail_catfish",
+    "weight": 40,
+    "minCount": 2,
+    "maxCount": 5
+  }
+}

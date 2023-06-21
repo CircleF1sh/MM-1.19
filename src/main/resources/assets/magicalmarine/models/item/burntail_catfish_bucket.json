@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "magicalmarine:item/burntail_catfish_bucket"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+
+    "minecraft:deep_lukewarm_ocean",
+    "minecraft:lukewarm_ocean",
+    "minecraft:river"
+
+
+
+
+  ],
+
+
+
+  "spawners": {
+    "type": "magicalmarine:tealstripe_minnow",
+    "weight": 35,
+    "minCount": 3,
+    "maxCount": 7
+  }
+}

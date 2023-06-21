@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cod",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:salmon",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pufferfish",
+          "weight": 13
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magicalmarine:tealstripe_minnow",
+          "weight": 19
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magicalmarine:purplefin_tuna",
+          "weight": 16
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}
